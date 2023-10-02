@@ -5,4 +5,5 @@ openai
 python-dotenv
 pydantic
 unstructured==0.7.12
-chromadb
+websockets
+metaphor_python
